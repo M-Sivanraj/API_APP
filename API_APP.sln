@@ -5,16 +5,52 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_APP", "API_APP\API_APP.csproj", "{959FF34C-F294-4549-912D-438A48A4B471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteManagement", "WebSiteManagement\WebSiteManagement.csproj", "{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Net40-Debug|Any CPU = Net40-Debug|Any CPU
+		Net40-Release|Any CPU = Net40-Release|Any CPU
+		Net45-Debug|Any CPU = Net45-Debug|Any CPU
+		Net45-Release|Any CPU = Net45-Release|Any CPU
+		Portable-Debug|Any CPU = Portable-Debug|Any CPU
+		Portable-Release|Any CPU = Portable-Release|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{959FF34C-F294-4549-912D-438A48A4B471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{959FF34C-F294-4549-912D-438A48A4B471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net40-Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net40-Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net40-Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net40-Release|Any CPU.Build.0 = Release|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net45-Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net45-Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net45-Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Net45-Release|Any CPU.Build.0 = Release|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Portable-Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Portable-Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Portable-Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959FF34C-F294-4549-912D-438A48A4B471}.Portable-Release|Any CPU.Build.0 = Release|Any CPU
 		{959FF34C-F294-4549-912D-438A48A4B471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{959FF34C-F294-4549-912D-438A48A4B471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Debug|Any CPU.ActiveCfg = Portable-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Debug|Any CPU.Build.0 = Portable-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net40-Debug|Any CPU.ActiveCfg = Net40-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net40-Debug|Any CPU.Build.0 = Net40-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net40-Release|Any CPU.ActiveCfg = Net40-Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net40-Release|Any CPU.Build.0 = Net40-Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net45-Debug|Any CPU.ActiveCfg = Net45-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net45-Debug|Any CPU.Build.0 = Net45-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net45-Release|Any CPU.ActiveCfg = Net45-Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Net45-Release|Any CPU.Build.0 = Net45-Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Portable-Debug|Any CPU.ActiveCfg = Portable-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Portable-Debug|Any CPU.Build.0 = Portable-Debug|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Portable-Release|Any CPU.ActiveCfg = Portable-Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Portable-Release|Any CPU.Build.0 = Portable-Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Release|Any CPU.ActiveCfg = Portable-Release|Any CPU
+		{2A2C36DB-A965-4A4B-9E06-5A86B6B9B5DB}.Release|Any CPU.Build.0 = Portable-Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
